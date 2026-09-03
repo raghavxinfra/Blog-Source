@@ -9,7 +9,7 @@ publishDir = "../MySite"
 [params]
     author = "Chari"
     description = "AI Infra & Agents"
-    githubUsername = "rchari66"
+    githubUsername = "raghavxinfra"
     accent = "royalblue"
     showBorder = true
     backgroundColor = "white"
