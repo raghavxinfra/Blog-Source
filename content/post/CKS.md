@@ -83,3 +83,7 @@ ufw allow from 135.22.65.0/24 to any port 9091 proto tcp on node01
 # To enable the firewall: 
 ufw enable
 ```
+
+<iframe width="1056" height="594"
+    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
